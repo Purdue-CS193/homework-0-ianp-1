@@ -1,5 +1,5 @@
 # Ian's First CS193 Homework
-My favorite thing about CS193 are:
+My favorite things about CS193 are:
 - all the people teaching it
 - getting to know how to use git better
 
